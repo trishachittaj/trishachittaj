@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Trisha
 
 ### 💻 Second-year Quantum Engineering/Computer Science student passionate about building value
-> Currently trying not to break like my code 😭🐛☕
+> Currently trying not to break like code 😭🐛☕
 
 ---
 
