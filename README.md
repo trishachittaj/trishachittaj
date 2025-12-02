@@ -1,7 +1,9 @@
-# Hi there 👋 I'm Trisha
+# Hiiiiii 👋 I'm Trisha
 
-### 💻 Second-year Quantum Engineering/Computer Science student passionate about building value
-> Currently trying not to break like code 😭🐛☕
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWN6aWh3ZXhuazU1ZzJucWtoaGtrdWFvMXNvNjdwY2tnajNwdzdzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8gmlrWPY0FKMg15NIY/giphy.gif" width="275" align="right" />
+
+### 💻 Second-year Quantum Engineering/Computer Science student
+> Debugging my life through code 😭🐛☕
 
 ---
 
@@ -46,3 +48,6 @@
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/trisha-chittajallu/)
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJmeWN3djVqN2ZtcnF6bTk3dTltZHRrZjJ2N3Rrb2M0aTNhazN5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xZsLh7B3KMMyUptD9D/giphy.gif"/>
+
